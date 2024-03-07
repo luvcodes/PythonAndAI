@@ -3,11 +3,13 @@
 """
 
 # 打开文件，以读取模式打开
-f = open("D:/word.txt", "r", encoding="UTF-8")
+f = open(r"C:\Users\ryanw\OneDrive\Desktop\PythonAndAI\PythonBasics\08_文件操作\测试.txt", "r", encoding="UTF-8")
+
 # 方式1：读取全部内容，通过字符串count方法统计itheima单词数量
 # content = f.read()
 # count = content.count("itheima")
 # print(f"itheima在文件中出现了:{count}次")
+
 # 方式2：读取内容，一行一行读取
 count = 0       # 使用count变量来累计itheima出现的次数
 for line in f:
@@ -16,7 +18,9 @@ for line in f:
     for word in words:
         if word == "itheima":
             count += 1      # 如果单词是itheima，进行数量的累加加1
+
 # 判断单词出现次数并累计
 print(f"itheima出现的次数是：{count}")
+
 # 关闭文件
 f.close()
