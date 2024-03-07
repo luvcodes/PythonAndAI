@@ -25,14 +25,17 @@ print(f"从嵌套元组中取出的数据是：{num}")
 t6 = ("传智教育", "黑马程序员", "Python")
 index = t6.index("黑马程序员")
 print(f"在元组t6中查找黑马程序员，的下标是：{index}")
+
 # 元组的操作：count统计方法
 t7 = ("传智教育", "黑马程序员", "黑马程序员", "黑马程序员", "Python")
 num = t7.count("黑马程序员")
 print(f"在元组t7中统计黑马程序员的数量有：{num}个")
+
 # 元组的操作：len函数统计元组元素数量
 t8 = ("传智教育", "黑马程序员", "黑马程序员", "黑马程序员", "Python")
 num = len(t8)
 print(f"t8元组中的元素有：{num}个")
+
 # 元组的遍历：while
 index = 0
 while index < len(t8):

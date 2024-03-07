@@ -3,11 +3,11 @@
 """
 # 创建my_utils 包， 在包内创建：str_util.py 和 file_util.py 2个模块，并提供相应的函数
 
-import my_utils.str_util
-from my_utils import file_util
+import PythonBasics.my_utils.str_util
+from PythonBasics.my_utils import file_util
 
-print(my_utils.str_util.str_reverse("黑马程序员"))
-print(my_utils.str_util.substr("itheima", 0, 4))
+print(PythonBasics.my_utils.str_util.str_reverse("黑马程序员"))
+print(PythonBasics.my_utils.str_util.substr("itheima", 0, 4))
 
 
 file_util.append_to_file("D:/test_append.txt", "itheima")

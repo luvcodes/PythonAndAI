@@ -21,6 +21,7 @@ score = my_dict1["王力鸿"]
 print(f"王力鸿的考试分数是：{score}")
 score = my_dict1["周杰轮"]
 print(f"周杰轮的考试分数是：{score}")
+
 # 定义嵌套字典
 stu_score_dict = {
     "王力鸿": {
