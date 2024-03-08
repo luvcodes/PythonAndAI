@@ -7,7 +7,6 @@ class Clock:
     id = None       # 序列化
     price = None    # 价格
 
-
     def ring(self):
         import winsound
         winsound.Beep(2000, 3000)
