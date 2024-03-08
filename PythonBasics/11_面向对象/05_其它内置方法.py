@@ -2,11 +2,10 @@
 演示Python内置的各类魔术方法
 """
 
-
 class Student:
     def __init__(self, name, age):
-        self.name = name        # 学生姓名
-        self.age = age          # 学生年龄
+        self.name = name
+        self.age = age
 
     # __str__魔术方法
     def __str__(self):
@@ -27,11 +26,7 @@ class Student:
 
 stu1 = Student("周杰轮", 31)
 stu2 = Student("林俊节", 36)
+# print(stu1)
+print(stu1 < stu2)
+print(stu1 <= stu2)
 print(stu1 == stu2)
-
-
-#
-
-
-
-
