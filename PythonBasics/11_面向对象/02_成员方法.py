@@ -13,7 +13,6 @@ class Student:
     def say_hi2(self, msg):
         print(f"大家好，我是：{self.name}，{msg}")
 
-
 stu = Student()
 stu.name = "周杰轮"
 stu.say_hi2("哎哟不错哟")

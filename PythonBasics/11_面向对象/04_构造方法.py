@@ -5,7 +5,6 @@
 # 构造方法的名称：__init__
 
 class Student:
-
     def __init__(self, name, age ,tel):
         self.name = name
         self.age = age
@@ -13,7 +12,7 @@ class Student:
         print("Student类创建了一个类对象")
 
 stu = Student("周杰轮", 31, "18500006666")
-print(stu.name)
+# 这是另外一种写法
+print(f"{stu.name}")
 print(stu.age)
 print(stu.tel)
-

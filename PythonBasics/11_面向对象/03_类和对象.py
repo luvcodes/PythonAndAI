@@ -23,7 +23,3 @@ clock2.id = "003033"
 clock2.price = 21.99
 print(f"闹钟ID：{clock2.id}，价格：{clock2.price}")
 clock2.ring()
-
-
-
-
