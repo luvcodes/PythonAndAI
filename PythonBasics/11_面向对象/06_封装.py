@@ -6,10 +6,8 @@
 class Phone:
     __current_voltage = 0.5        # 当前手机运行电压
 
-
     def __keep_single_core(self):
         print("让CPU以单核模式运行")
-
 
     def call_by_5g(self):
         if self.__current_voltage >= 1:
@@ -21,4 +19,3 @@ class Phone:
 
 phone = Phone()
 phone.call_by_5g()
-
