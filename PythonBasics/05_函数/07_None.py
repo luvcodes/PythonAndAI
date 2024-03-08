@@ -31,6 +31,5 @@ if not result:
     # 进入if表示result是None值 也就是False
     print("未成年，不可以进入")
 
-
 # None用于声明无初始内容的变量
 name = None

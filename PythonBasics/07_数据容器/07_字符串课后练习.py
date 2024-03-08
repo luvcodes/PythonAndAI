@@ -2,7 +2,9 @@
 字符串课后练习演示
 "itheima itcast boxuegu"
 """
+
 my_str = "itheima itcast boxuegu"
+
 # 统计字符串内有多少个"it"字符
 num = my_str.count("it")
 print(f"字符串{my_str}中有{num}个it字符")

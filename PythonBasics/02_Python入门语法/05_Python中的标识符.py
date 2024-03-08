@@ -5,17 +5,13 @@ name_ = "张三"
 _name = "张三"
 name_1 = "张三"
 
-
 # 规则2：大小写敏感
 Itheima = "黑马程序员"
 itheima = 666
 print(Itheima)
 print(itheima)
 
-
-
 # 规则3：不可使用关键字
 # 错误的示例，使用了关键字：class = 1
 # 错误的示例，使用了关键字：def = 1
 Class = 1
-

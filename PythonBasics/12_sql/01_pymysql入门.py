@@ -1,6 +1,7 @@
 """
 演示Python pymysql库的基础操作
 """
+
 from pymysql import Connection
 
 # 构建到MySQL数据库的链接
@@ -12,7 +13,7 @@ conn = Connection(
     autocommit=True     # 设置自动提交
 )
 
-# print(conn.get_server_info())
+print(conn.get_server_info())
 # 执行非查询性质SQL
 cursor = conn.cursor()      # 获取到游标对象
 # 选择数据库

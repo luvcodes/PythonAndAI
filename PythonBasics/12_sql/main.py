@@ -1,6 +1,7 @@
 """
 SQL 综合案例，读取文件，写入MySQL数据库中
 """
+
 from file_define import TextFileReader, JsonFileReader
 from data_define import Record
 from pymysql import Connection
@@ -10,6 +11,7 @@ json_file_reader = JsonFileReader("D:/2011年2月销售数据JSON.txt")
 
 jan_data: list[Record] = text_file_reader.read_data()
 feb_data: list[Record] = json_file_reader.read_data()
+
 # 将2个月份的数据合并为1个list来存储
 all_data: list[Record] = jan_data + feb_data
 

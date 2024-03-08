@@ -1,6 +1,7 @@
 """
 演示使用pymysql库进行数据插入的操作
 """
+
 from pymysql import Connection
 
 # 构建到MySQL数据库的链接

@@ -24,5 +24,4 @@ def list_for_func():
 
 
 list_while_func()
-
 list_for_func()

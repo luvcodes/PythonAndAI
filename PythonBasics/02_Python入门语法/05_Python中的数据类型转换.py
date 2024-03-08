@@ -13,8 +13,8 @@ num2 = float("11.345")
 print(type(num2), num2)
 
 # 错误示例，想要将字符串转换成数字，必须要求字符串内的内容都是数字
-# num3 = int("黑马程序员")
-# print(type(num3), num3)
+num3 = int("黑马程序员")
+print(type(num3), num3)
 
 # 整数转浮点数
 float_num = float(11)
