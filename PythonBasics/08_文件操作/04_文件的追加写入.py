@@ -4,7 +4,6 @@
 
 # 打开文件，不存在的文件
 f = open(r"C:\Users\ryanw\OneDrive\Desktop\PythonAndAI\PythonBasics\08_文件操作\测试.txt", "a", encoding="UTF-8")
-
 # write写入
 f.write("黑马程序员")
 # flush刷新
