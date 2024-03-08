@@ -11,8 +11,8 @@ from time import sleep
 # time.sleep(5)
 # print("我好")
 
-# 使用from导入time的sleep功能（函数）
-from time import sleep
+# 使用from单独导入time的具体的sleep功能（函数）
+# from time import sleep
 # print("你好")
 # sleep(5)
 # print("我好")
