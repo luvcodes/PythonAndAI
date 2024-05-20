@@ -4,6 +4,7 @@
 
 # 获取范围在1-100的随机数字
 import random
+
 num = random.randint(1, 100)
 # 定义一个变量，记录总共猜测了多少次
 count = 0
@@ -24,4 +25,3 @@ while flag:
             print("你猜的小了")
 
 print(f"你总共猜测了{count}次")
-
