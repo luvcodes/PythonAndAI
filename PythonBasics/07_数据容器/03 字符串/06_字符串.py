@@ -24,7 +24,7 @@ print(f"将字符串{my_str}进行split切分后得到：{my_str_list}, 类型�
 
 # strip方法
 my_str = "  itheima and itcast  "
-new_my_str = my_str.strip() # 不传入参数，去除首尾空格
+new_my_str = my_str.strip()  # 不传入参数，去除首尾空格
 print(f"字符串{my_str}被strip后，结果：{new_my_str}")
 
 my_str = "12itheima and itcast21"

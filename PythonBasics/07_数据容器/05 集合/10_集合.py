@@ -4,6 +4,7 @@
 
 # 定义集合
 my_set = {"传智教育", "黑马程序员", "itheima", "传智教育", "黑马程序员", "itheima", "传智教育", "黑马程序员", "itheima"}
+
 # 定义空集合
 my_set_empty = set()
 print(f"my_set的内容是：{my_set}, 类型是：{type(my_set)}")

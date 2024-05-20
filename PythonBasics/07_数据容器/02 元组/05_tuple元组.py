@@ -11,10 +11,11 @@ print(f"t2的类型是：{type(t2)}, 内容是：{t2}")
 print(f"t3的类型是：{type(t3)}, 内容是：{t3}")
 
 # 定义单个元素的元素
-t4 = ("hello", )
+t4 = ("hello",)
 print(f"t4的类型是：{type(t4)}, t4的内容是：{t4}")
+
 # 元组的嵌套
-t5 = ( (1, 2, 3), (4, 5, 6) )
+t5 = ((1, 2, 3), (4, 5, 6))
 print(f"t5的类型是：{type(t5)}, 内容是：{t5}")
 
 # 下标索引去取出内容
@@ -40,7 +41,6 @@ print(f"t8元组中的元素有：{num}个")
 index = 0
 while index < len(t8):
     print(f"元组的元素有：{t8[index]}")
-    # 至关重要
     index += 1
 
 # 元组的遍历：for
