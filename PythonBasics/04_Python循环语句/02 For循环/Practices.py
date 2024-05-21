@@ -1,11 +1,11 @@
 # 数到20
-# for value in range(1, 21):
-#     print(value)
-# print('----')
+for value in range(1, 21):
+    print(value)
+print('----')
 
 # 100万
-# million = [value for value in range(1, 1000_001)]
-# print(million)
+million = [value for value in range(1, 1000_001)]
+print(million)
 
 # 100万求和
 million = []

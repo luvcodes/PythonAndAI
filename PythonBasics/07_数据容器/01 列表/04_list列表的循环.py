@@ -2,6 +2,7 @@
 演示使用while和for循环遍历列表
 """
 
+
 def list_while_func():
     """
     使用while循环遍历列表的演示函数
@@ -12,6 +13,7 @@ def list_while_func():
     while index < len(mylist):
         print(mylist[index])
         index += 1
+
 
 def list_for_func():
     """
