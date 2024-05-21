@@ -2,7 +2,6 @@
 演示字典的课后练习：升职加薪，对所有级别为1级的员工，级别上升1级，薪水增加1000元
 """
 
-# 组织字典记录数据
 info_dict = {
     "王力鸿": {
         "部门": "科技部",
@@ -38,13 +37,9 @@ for name in info_dict:
     # if条件判断符合条件员工
     if info_dict[name]["级别"] == 1:
         # 升职加薪操作
-        # 获取到员工的信息字典
         employee_info_dict = info_dict[name]
-        # 修改员工的信息
         employee_info_dict["级别"] = 2    # 级别+1
         employee_info_dict["工资"] += 1000    # 工资+1000
-        # 将员工的信息更新回info_dict
         info_dict[name] = employee_info_dict
 
-# 输出结果
 print(f"对员工进行升级加薪后的结果是：{info_dict}")
