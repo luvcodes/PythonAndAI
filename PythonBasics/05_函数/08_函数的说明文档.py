@@ -2,6 +2,7 @@
 演示对函数进行文档说明
 """
 
+
 # 定义函数，进行文档说明
 def add(x, y):
     """
@@ -14,5 +15,5 @@ def add(x, y):
     print(f"2数相加的结果是：{result}")
     return result
 
-add(5, 6)
 
+add(5, 6)
