@@ -2,6 +2,7 @@
 演示Python内置的各类魔术方法
 """
 
+
 class Student:
     def __init__(self, name, age):
         self.name = name

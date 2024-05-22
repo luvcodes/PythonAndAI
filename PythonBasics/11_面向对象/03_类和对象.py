@@ -4,8 +4,8 @@
 
 
 class Clock:
-    id = None  # 序列化
-    price = None  # 价格
+    id = None
+    price = None
 
     def ring(self):
         import winsound
