@@ -2,6 +2,7 @@
 演示面向对象封装思想中私有成员的使用
 """
 
+
 # 定义一个类，内含私有成员变量和私有成员方法
 class Phone:
     # 当前手机运行电压
@@ -16,6 +17,7 @@ class Phone:
         else:
             self.__keep_single_core()
             print("电量不足，无法使用5g通话，并已设置为单核运行进行省电。")
+
 
 phone = Phone()
 phone.call_by_5g()

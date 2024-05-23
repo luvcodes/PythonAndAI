@@ -25,7 +25,7 @@ phone.call_by_4g()
 phone.call_by_5g()
 
 
-"""演示多继承"""
+# 演示多继承
 class NFCReader:
     nfc_type = "第五代"
     producer = "HM"
