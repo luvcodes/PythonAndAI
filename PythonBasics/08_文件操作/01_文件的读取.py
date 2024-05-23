@@ -22,20 +22,19 @@ from pathlib import Path
 # for line in lines:
 #     print(line)
 
-
 # 使用文件中的内容
-path = Path('测试.txt')
-contents = path.read_text()
-lines = contents.splitlines()
-textStr = ''
-for line in lines:
-    textStr += line
-print(textStr)
-print(len(textStr))
+# path = Path('测试.txt')
+# contents = path.read_text()
+# lines = contents.splitlines()
+# textStr = ''
+# for line in lines:
+#     textStr += line
+# print(textStr)
+# print(len(textStr))
 
-
-
-
+"""
+使用open()方法读取文件
+"""
 # f = open(r"测试.txt", "r", encoding="UTF-8")
 # print(type(f))
 # 读取文件 - read()
