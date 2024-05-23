@@ -3,7 +3,7 @@
 """
 
 # 打开文件，以读取模式打开
-f = open(r"C:\Users\ryanw\OneDrive\Desktop\PythonAndAI\PythonBasics\08_文件操作\测试.txt", "r", encoding="UTF-8")
+f = open(r"测试.txt", "r", encoding="UTF-8")
 
 # 方式1：读取全部内容，通过字符串count方法统计itheima单词数量
 # content = f.read()
