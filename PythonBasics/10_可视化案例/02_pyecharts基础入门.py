@@ -4,6 +4,7 @@
 # 导包
 from pyecharts.charts import Line
 from pyecharts.options import TitleOpts, LegendOpts, ToolboxOpts, VisualMapOpts
+
 # 创建一个折线图对象
 line = Line()
 # 给折线图对象添加x轴的数据
