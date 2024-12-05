@@ -19,7 +19,6 @@ stu = Student()
 stu.say_hi()
 stu.name = "周杰轮"
 stu.say_hi2("哎哟不错哟")
-
 stu2 = Student()
 stu2.name = "林俊节"
 stu2.say_hi2("小伙子我看好你")
