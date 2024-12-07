@@ -40,10 +40,6 @@ def sigmoid(z):
 
     return g
 
-##########################################################
-# Regression Routines
-##########################################################
-
 def predict_logistic(X, w, b):
     """ performs prediction """
     return sigmoid(X @ w + b)
