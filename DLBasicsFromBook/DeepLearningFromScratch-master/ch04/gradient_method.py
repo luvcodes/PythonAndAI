@@ -16,12 +16,13 @@ def gradient_descent(f, init_x, lr=0.01, step_num=100):
 
     return x, np.array(x_history)
 
-
+# f(x0, x1) = x0^2 + x1^2，这就是使用梯度法进行求解的目标函数
 def function_2(x):
     return x[0]**2 + x[1]**2
 
 init_x = np.array([-3.0, 4.0])    
 
+# 定义学习率和迭代次数
 lr = 0.1
 step_num = 20
 x, x_history = gradient_descent(function_2, init_x, lr=lr, step_num=step_num)

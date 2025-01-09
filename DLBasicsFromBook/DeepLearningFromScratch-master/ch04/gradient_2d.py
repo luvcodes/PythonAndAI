@@ -1,9 +1,6 @@
-# coding: utf-8
-# cf.http://d.hatena.ne.jp/white_wheels/20100327/p3
 import numpy as np
 import matplotlib.pylab as plt
 from mpl_toolkits.mplot3d import Axes3D
-
 
 def _numerical_gradient_no_batch(f, x):
     h = 1e-4 # 0.0001
@@ -22,7 +19,6 @@ def _numerical_gradient_no_batch(f, x):
         
     return grad
 
-
 def numerical_gradient(f, X):
     if X.ndim == 1:
         return _numerical_gradient_no_batch(f, X)
@@ -34,13 +30,11 @@ def numerical_gradient(f, X):
         
         return grad
 
-
 def function_2(x):
     if x.ndim == 1:
         return np.sum(x**2)
     else:
         return np.sum(x**2, axis=1)
-
 
 def tangent_line(f, x):
     d = numerical_gradient(f, x)
