@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc0a44e-1f65-405e-b165-cb77090c8c44" name="Changes" comment="Pandas merging tables operations learning">
-      <change afterPath="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/AggregateData/GroupBy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/AggregateData/aggregationFunc.ipynb" afterDir="false" />
+    <list default="true" id="9bc0a44e-1f65-405e-b165-cb77090c8c44" name="Changes" comment="Pandas and numpy for aggregation data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/AggregateData/GroupBy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/AggregateData/GroupBy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +274,7 @@
       <workItem from="1742167909087" duration="68000" />
       <workItem from="1742167984947" duration="900000" />
       <workItem from="1742169611435" duration="6837000" />
-      <workItem from="1742185314009" duration="3207000" />
+      <workItem from="1742185314009" duration="4807000" />
     </task>
     <task id="LOCAL-00001" summary="Update on the package import">
       <option name="closed" value="true" />
@@ -413,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742178971199</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Pandas and numpy for aggregation data">
+      <option name="closed" value="true" />
+      <created>1742190604831</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1742190604831</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,32 +443,33 @@
     <MESSAGE value="Python while loop contents practice questions" />
     <MESSAGE value="Python读取文件内容学习" />
     <MESSAGE value="Pandas merging tables operations learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pandas merging tables operations learning" />
+    <MESSAGE value="Pandas and numpy for aggregation data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pandas and numpy for aggregation data" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonAndAI$02_pyecharts.coverage" NAME="02_pyecharts基础入门 Coverage Results" MODIFIED="1709860330566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/10_可视化案例" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$01_.coverage" NAME="01_文件的读取 Coverage Results" MODIFIED="1716439345549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/08_文件操作" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$01_json.coverage" NAME="01_json数据格式 Coverage Results" MODIFIED="1709872619126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/10_可视化案例" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$Practice.coverage" NAME="Practice Coverage Results" MODIFIED="1716270526749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/04_Python循环语句/01_While循环" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$05_.coverage" NAME="05_其它内置方法 Coverage Results" MODIFIED="1709888739159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$data_define.coverage" NAME="data_define Coverage Results" MODIFIED="1709941337660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/12_sql" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$05_for.coverage" NAME="05_for循环的基础语法 Coverage Results" MODIFIED="1716204003730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/04_Python循环语句" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$LeftMerges.coverage" NAME="LeftMerges Coverage Results" MODIFIED="1742168531792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/MergingData" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$06_.coverage" NAME="06_包 Coverage Results" MODIFIED="1709860122050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/09_异常_模块_包" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$11_.coverage" NAME="11_循环控制continue Coverage Results" MODIFIED="1716267900358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/04_Python循环语句" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$08_.coverage" NAME="08_继承的基础语法 Coverage Results" MODIFIED="1709897730994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$12__Union.coverage" NAME="12_类型注解_Union联合类型 Coverage Results" MODIFIED="1709940085047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$01_pymysql.coverage" NAME="01_pymysql入门 Coverage Results" MODIFIED="1709940757056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/12_sql" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$04_.coverage" NAME="04_构造方法 Coverage Results" MODIFIED="1709888199083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$05_while.coverage" NAME="05_while循环处理列表与字典 Coverage Results" MODIFIED="1716268847924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/04_Python循环语句/01_While循环" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$Polymorphism.coverage" NAME="Polymorphism Coverage Results" MODIFIED="1709907691309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$InnerMerges.coverage" NAME="InnerMerges Coverage Results" MODIFIED="1742168275143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/MergingData" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$str_util.coverage" NAME="str_util Coverage Results" MODIFIED="1709861993303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_utils" />
     <SUITE FILE_PATH="coverage/PythonAndAI$09__.coverage" NAME="09_继承_复写和使用父类成员 Coverage Results" MODIFIED="1709898485826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$04_.coverage" NAME="04_构造方法 Coverage Results" MODIFIED="1709888199083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$Practice.coverage" NAME="Practice Coverage Results" MODIFIED="1716270526749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/04_Python循环语句/01_While循环" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$06_.coverage" NAME="06_包 Coverage Results" MODIFIED="1709860122050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/09_异常_模块_包" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$LeftMerges.coverage" NAME="LeftMerges Coverage Results" MODIFIED="1742192176794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/MergingData" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$data_define.coverage" NAME="data_define Coverage Results" MODIFIED="1709941337660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/12_sql" />
     <SUITE FILE_PATH="coverage/PythonAndAI$11__.coverage" NAME="11_类型注解_函数和方法 Coverage Results" MODIFIED="1709906987113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$.coverage" NAME=" Coverage Results" MODIFIED="1709859148340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/09_异常_模块_包" />
-    <SUITE FILE_PATH="coverage/PythonAndAI$10__.coverage" NAME="10_类型注解_变量 Coverage Results" MODIFIED="1709900468031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
     <SUITE FILE_PATH="coverage/PythonAndAI$02_.coverage" NAME="02_成员方法 Coverage Results" MODIFIED="1709874296042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$01_json.coverage" NAME="01_json数据格式 Coverage Results" MODIFIED="1709872619126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/10_可视化案例" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$Polymorphism.coverage" NAME="Polymorphism Coverage Results" MODIFIED="1709907691309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$02_pyecharts.coverage" NAME="02_pyecharts基础入门 Coverage Results" MODIFIED="1709860330566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/10_可视化案例" />
     <SUITE FILE_PATH="coverage/PythonAndAI$test.coverage" NAME="test Coverage Results" MODIFIED="1716117579524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$05_.coverage" NAME="05_其它内置方法 Coverage Results" MODIFIED="1709888739159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$10__.coverage" NAME="10_类型注解_变量 Coverage Results" MODIFIED="1709900468031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$01_pymysql.coverage" NAME="01_pymysql入门 Coverage Results" MODIFIED="1709940757056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/12_sql" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$InnerMerges.coverage" NAME="InnerMerges Coverage Results" MODIFIED="1742168275143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/MergingData" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$05_while.coverage" NAME="05_while循环处理列表与字典 Coverage Results" MODIFIED="1716268847924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/04_Python循环语句/01_While循环" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$.coverage" NAME=" Coverage Results" MODIFIED="1709859148340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/09_异常_模块_包" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$str_util.coverage" NAME="str_util Coverage Results" MODIFIED="1709861993303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_utils" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$01_.coverage" NAME="01_文件的读取 Coverage Results" MODIFIED="1716439345549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/08_文件操作" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$08_.coverage" NAME="08_继承的基础语法 Coverage Results" MODIFIED="1709897730994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$05_for.coverage" NAME="05_for循环的基础语法 Coverage Results" MODIFIED="1716204003730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/04_Python循环语句" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$11_.coverage" NAME="11_循环控制continue Coverage Results" MODIFIED="1716267900358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/04_Python循环语句" />
+    <SUITE FILE_PATH="coverage/PythonAndAI$12__Union.coverage" NAME="12_类型注解_Union联合类型 Coverage Results" MODIFIED="1709940085047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasics/11_面向对象" />
   </component>
 </project>
