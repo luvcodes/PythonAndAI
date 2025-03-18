@@ -1,4 +1,6 @@
 import pandas as pd
+
+
 # Original dataframe
 df = pd.DataFrame({
     'name': ['zhangsan', 'lisi', 'wangwu', 'zhaoliu'],
