@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc0a44e-1f65-405e-b165-cb77090c8c44" name="Changes" comment="GroupBy keyword in pandas">
+      <change afterPath="$PROJECT_DIR$/DeepLearning/DataVisualization/Matplotlib.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/AggregateData/GroupBy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/PythonBasics/Pandas/AggregateData/GroupBy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/PythonBasics/Matplotlib/matplotlib01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/PythonBasics/Matplotlib/matplotlib01.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,6 +277,8 @@
       <workItem from="1742169611435" duration="6837000" />
       <workItem from="1742185314009" duration="5146000" />
       <workItem from="1742252499958" duration="141000" />
+      <workItem from="1742511442760" duration="3182000" />
+      <workItem from="1742516768767" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="Update on the package import">
       <option name="closed" value="true" />
