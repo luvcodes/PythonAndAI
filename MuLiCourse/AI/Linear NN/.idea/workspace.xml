@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46833076-998b-47fa-a3fd-e0a363ba88c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch01/hungry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch01/img_show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch01/man.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch01/simple_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch01/sin_cos_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch01/sin_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch02/Perceptron01.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch02/and_gate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch02/nand_gate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch02/or_gate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch02/xor_gate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/01ActivationFunc.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/02ThreeLayerNN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/03DesignOutputLayer.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/mnist_show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/neuralnet_mnist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/neuralnet_mnist_batch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/relu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/sample_weight.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/sig_step_compare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/sigmoid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch03/step_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch04/gradient_1d.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch04/gradient_2d.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch04/gradient_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch04/gradient_simplenet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch04/train_neuralnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch04/two_layer_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch05/buy_apple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch05/buy_apple_orange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch05/gradient_check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch05/layer_naive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch05/train_neuralnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch05/two_layer_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch06/batch_norm_gradient_check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch06/batch_norm_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch06/hyperparameter_optimization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch06/optimizer_compare_mnist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch06/optimizer_compare_naive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch06/overfit_dropout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch06/overfit_weight_decay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch06/weight_init_activation_histogram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch06/weight_init_compare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch07/apply_filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch07/gradient_check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch07/params.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch07/simple_convnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch07/train_convnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch07/visualize_filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch08/awesome_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch08/deep_convnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch08/deep_convnet_params.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch08/half_float_network.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch08/misclassified_mnist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/ch08/train_deepnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/common/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/common/gradient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/common/layers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/common/multi_layer_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/common/multi_layer_net_extend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/common/optimizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/common/trainer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/common/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/dataset/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/dataset/lena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/dataset/lena_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/dataset/mnist.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/dataset/mnist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/dataset/t10k-images-idx3-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/dataset/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/dataset/train-images-idx3-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/DeepLearningFromScratch-master/dataset/train-labels-idx1-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/PythonBasics/Matplotlib/lena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/PythonBasics/Matplotlib/matplotlib01.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/PythonBasics/Numpy/numpy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/data/images/Snipaste_2024-12-27_20-19-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/data/images/Snipaste_2024-12-27_20-25-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/data/images/Snipaste_2024-12-27_20-37-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DLBasicsFromBook/data/images/Snipaste_2024-12-27_20-41-49.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ryC62Af7jk8Q7fFrSBYdfXjspe" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/专业课/计算机专业/Python/PythonAndAI/MuLiCourse/AI/Linear NN",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46833076-998b-47fa-a3fd-e0a363ba88c3" name="Changes" comment="" />
+      <created>1737521749901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737521749901</updated>
+      <workItem from="1737521750498" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
